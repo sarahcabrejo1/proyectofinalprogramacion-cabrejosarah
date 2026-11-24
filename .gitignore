@@ -1,0 +1,6 @@
+target/
+out/
+.idea/workspace.xml
+.DS_Store
+sistema.dat
+Cierre_*.txt
